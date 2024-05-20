@@ -21,7 +21,7 @@
     margin: 10px;
 }
 
-p {
+.grey_text {
     color: grey;
 }
 
@@ -42,4 +42,12 @@ p {
     font-size: 9px;
     margin: 10px;
     padding: 1px;
+}
+
+#hightlight_text {
+    background-color: yellow;
+}
+
+#list {
+    margin: 25px;
 }
