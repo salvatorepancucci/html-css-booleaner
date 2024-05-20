@@ -44,7 +44,7 @@
     padding: 1px;
 }
 
-#hightlight_text {
+.hightlight_text {
     background-color: yellow;
 }
 
@@ -59,17 +59,17 @@
     width: 1355px;
 }
 
-#main_row {
+.main_row {
     background-color: rgb(59, 162, 246);
     color: white;
     display: block;
 }
 
-#second_row {
+.second_row {
     display: block;
 }
 
-#lower_row {
+.lower_row {
     background-color: rgb(100, 197, 250);
     display: block;
 }
@@ -84,4 +84,24 @@
 
 .last_column {
     width: 451px;
+}
+
+.footer_pic1 {
+    margin: 10px;
+    background-image: url('../img/monitor.jpg');
+    background-size: contain;
+    height: 120px;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px;
+}
+
+.footer_pic2 {
+    margin: 10px;
+    background-image: url('../img/graph.jpg');
+    background-size: contain;
+    height: 120px;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px;
 }
