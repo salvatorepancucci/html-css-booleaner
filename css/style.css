@@ -51,3 +51,37 @@
 #list {
     margin: 25px;
 }
+
+.table {
+    margin: 10px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 1355px;
+}
+
+#main_row {
+    background-color: rgb(59, 162, 246);
+    color: white;
+    display: block;
+}
+
+#second_row {
+    display: block;
+}
+
+#lower_row {
+    background-color: rgb(100, 197, 250);
+    display: block;
+}
+
+.column {
+    width: 451px;
+}
+
+.center_column {
+   width: 451px;
+}
+
+.last_column {
+    width: 451px;
+}
