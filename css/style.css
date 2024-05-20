@@ -16,3 +16,20 @@
     padding: 35px;
     padding-left: 10px;
 }
+
+.container {
+    margin: 10px;
+}
+
+p {
+    color: grey;
+}
+
+#author {
+    color:deepskyblue;
+}
+
+#date {
+    font-size: 11px;
+    padding: 0px;
+}
